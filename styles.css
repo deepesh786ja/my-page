@@ -70,11 +70,4 @@ ul li {
 }
 
 @keyframes backgroundAnimation {
-    0% {background-color: #000;}
-    50% {background-color: #111;}
-    100% {background-color: #000;}
-}
-
-body {
-    animation: backgroundAnimation 10s infinite;
-}
+   
