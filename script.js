@@ -38,16 +38,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>Created EKS Cluster with Monitoring dashboard on Grafana.</p>
                 <h3>CI/CD Pipeline</h3>
                 <p>Designed pipeline for EKS cluster using BitBucket and AWS Codebuild.</p>
-                <h3>Jenkins Monitoring with OpenTelemetry</h3>
-                <p>Worked on monitoring Jenkins using OpenTelemetry, Tempo, Promtail, and CloudWatch.</p>
-                <h3>Security Alert Project</h3>
-                <p>Hyblocapital crypto currency project designed for high availability K8s cluster on-premises.</p>
-                <h3>SAAS Project in Ezops</h3>
-                <p>Designed EKS cluster for multi-client usage in one cluster.</p>
-                <h3>Terraform and EFS Integration</h3>
-                <p>Worked on integrating EFS in EKS cluster and created Terraform modules for production.</p>
-                <h3>Ansible and Helm</h3>
-                <p>Worked on Ansible playbook custom module for deployment automation and used Helm charts on a daily basis.</p>
+                <h3>Jenkins and Monitoring</h3>
+                <p>Implemented Jenkins for CI/CD and integrated monitoring using OpenTelemetry, Tempo, Promtail, and CloudWatch.</p>
+                <h3>Hyblocapital Security Alerts</h3>
+                <p>Designed a high-availability K8s cluster on-premises for a cryptocurrency project. Worked on kubeadm for cluster setup and configuration.</p>
+                <h3>SAAS Project on EKS</h3>
+                <p>Designed an EKS cluster for multiple clients in a single cluster, including EFS integration. Worked on Terraform modules for production and Ansible playbooks for deployment automation. Used Helm charts on a daily basis.</p>
             </section>
         `,
         experience: `
